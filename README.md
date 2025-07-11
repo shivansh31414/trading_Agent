@@ -64,6 +64,17 @@ python main.py
 
 
 
+├── agents/
+│   ├── market_analyst.py
+│   ├── strategy_agent.py
+│   ├── trading_agent.py
+│   └── risk_evaluator.py
+├── data/
+├── config.py
+├── main.py
+├── utils/
+├── README.md
+└── requirements.txt
 
 
 
