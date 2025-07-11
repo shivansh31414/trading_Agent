@@ -76,5 +76,12 @@ python main.py
 ├── README.md
 └── requirements.txt
 
+📊 Sample Outputs
+✅ Trade recommendation logs
 
+📜 Agent conversation traces
+
+📈 Portfolio growth charts (if visualized)
+
+📉 Risk-adjusted performance reports
 
