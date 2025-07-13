@@ -1,7 +1,6 @@
 # 📈 AI-Powered Stock Trading Agents with CrewAI
 
-Welcome to **AI-Trading-Crew**, a cutting-edge multi-agent stock trading system powered by **CrewAI** and **Large Language Models (LLMs)**. This project simulates strategic collaboration between autonomous agents to analyze markets, generate recommendations, execute trades, and evaluate portfolio outcomes.
-
+Welcome to **AI-Trading-Crew**, a cutting-edge multi-agent stock trading system powered by **CrewAI** and **Large Language Models (LLMs)**. This project simulates strategic collaboration between autonomous agents to analyze markets, generate recommendations, execute trades, and evaluate portfolio outcomes,analysis  market situations .
 ---
 
 ## 🚀 Project Overview
